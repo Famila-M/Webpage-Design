@@ -49,6 +49,7 @@ body {
     position: relative;
     line-height: 120%;
   }
+
   .text {
     font-size: var(--font-size-lg);
     line-height: 28px;
